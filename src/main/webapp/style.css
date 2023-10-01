@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+body{
+    font-family: 'Mooli', sans-serif;
+    background: url("https://img.freepik.com/free-photo/abstract-paper-background-concept_23-2148812675.jpg");
+    background-size: cover;
+
+}
+#cc{
+    height: 100vh;
+}
+
+#heading{
+    font-size: 50px;
+    font-weight: 900;
+    color:navy;
+}
+
+td input, td textarea{
+    width: 15rem !important;
+     outline: none;
+}
+
+#check {
+    color: red;
+}
+
+
+#singupform{
+    background-color: aliceblue;
+}
+
+input{
+    outline: none;
+}
